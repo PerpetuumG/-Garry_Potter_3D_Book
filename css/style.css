@@ -23,11 +23,11 @@ body {
 }
 
 .front {
-    background: url("/img/hp-front_dq5cez.jpg");
+    background: url("../img/hp-front_dq5cez.jpg");
 }
 
 .back {
-    background: url("/img/hp-back_l3tn1v.jpg");
+    background: url("../img/hp-back_l3tn1v.jpg");
     transform: translateZ(-51px) rotateY(180deg);
 }
 
@@ -40,7 +40,7 @@ body {
     position: absolute;
     width: 51px;
     height: 100%;
-    background: url("/img/hp-left_z6pqmr.jpg");
+    background: url("../img/hp-left_z6pqmr.jpg");
     transform: rotateY(90deg);
     transform-origin: 0 100%;
 }
